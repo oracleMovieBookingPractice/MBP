@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE JboProject SYSTEM "jbo_03_01.dtd">
+<!---->
+<JboProject
+  xmlns="http://xmlns.oracle.com/bc4j"
+  Name="MovieBookingModel"
+  Version="11.1.1.66.73"
+  SeparateXMLFiles="true"
+  PackageName="oracle.mbp.moviebooking"
+  ExportIntfPackage="">
+  <DesignTime>
+    <Attr Name="_jprName" Value="../../../../MovieBookingModel.jpr"/>
+    <Attr Name="_NamedConnection" Value="MovieDB"/>
+  </DesignTime>
+</JboProject>
